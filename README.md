@@ -4,13 +4,13 @@
 ----------
 ArduX1 es un dispositivo que nos permite medir los principales parámetros de una línea eléctrica monofásica alterna. Su arquitectura basada en Arduino hace que este medidor sea muy versátil, pudiendo modificar el firmware fácilmente a medida del usuario.
 
-![ArduX1](https://github.com/raymirabel/ArduX1/blob/master/Doc/ArduX1.JPG)
+![ArduX1](https://github.com/raymirabel/ArduX1/blob/master/doc/ArduX1.JPG)
 
 Lo más destacado:
 
 - Tamaño compacto en caja carril DIN.
 - Alimentación directa desde 90 hasta 260VAC.
-- Medidor de precisión basado en el chip [ADE7753](https://github.com/raymirabel/ArduX1/blob/master/Doc/ADE7753.pdf).
+- Medidor de precisión basado en el chip [ADE7753](https://github.com/raymirabel/ArduX1/blob/master/doc/ADE7753.pdf).
 - Error de medida < 1%.
 - Capacidad de medida hasta 30A o 100A.
 - Medidas de voltaje, corriente, frecuencia, potencia (activa, reactiva, aparente, factor de potencia), energías y picos de voltaje y corriente.
