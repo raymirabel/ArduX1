@@ -1,0 +1,41 @@
+#######################################
+# Instances (KEYWORD1)
+#######################################
+ArduX1		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+relayWrite	KEYWORD2
+relayRead	KEYWORD2
+relayToggle	KEYWORD2
+digitalRead	KEYWORD2
+analogRead	KEYWORD2
+buzzerWrite KEYWORD2
+buzzerRead  KEYWORD2
+buzzerToggle  KEYWORD2
+dipswitchRead KEYWORD2
+vrmsRead	KEYWORD2
+irmsReadf	KEYWORD2
+freqRead	KEYWORD2
+vPeakRead	KEYWORD2
+iPeakRead	KEYWORD2
+pActiveRead	KEYWORD2
+vPeakReset	KEYWORD2
+iPeakReset	KEYWORD2
+pReactiveRead	KEYWORD2
+pApparentRead	KEYWORD2
+pfRead		KEYWORD2
+eActiveRead	KEYWORD2
+eReactiveRead	KEYWORD2
+eApparentRead	KEYWORD2
+eClear		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+RELAY		LITERAL1
+DIN	    	LITERAL1
+AIN	    	LITERAL1
+BUZZER    	LITERAL1
+BUTTON	    LITERAL1
